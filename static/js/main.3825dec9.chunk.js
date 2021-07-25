@@ -381,7 +381,7 @@
 				se = function (e) {
 					for (var a = Object(le.a)(new Date, "yyyy-MM-dd"), t = Object(n.useState)(!1), o = Object(i.a)(t, 2), r = o[0], l = o[1], c = Object(n.useState)(!1), s = Object(i.a)(c, 2), A = s[0], m = s[1], p = arguments.length, u = new Array(p > 1 ? p - 1 : 0), d = 1; d < p; d++)
 						u[d - 1] = arguments[d];
-					var g = "/data/".concat(e, "/").concat([].concat(u).join("/"), ".json");
+					var g = "/data/".concat(e, "/").concat([].concat(u).join("/"), ".json?").concat(a);
 					return Object(n.useEffect)((function () {
 							m(!1),
 							l(!0),
