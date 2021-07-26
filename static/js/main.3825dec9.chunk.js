@@ -295,10 +295,6 @@
 											className: a.icons
 										}, o.a.createElement("span", {
 												className: a.desktopIcons
-											}, o.a.createElement(I.a, null))), o.a.createElement(w.a, {
-												onClick: function () {
-													return c(!0)
-												}
 											}, o.a.createElement(D.a, null))))))), o.a.createElement(O, {
 							open: l,
 							onClose: function () {
