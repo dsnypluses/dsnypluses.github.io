@@ -257,7 +257,7 @@
 									target: "_blank"
 								}, "disney.com"), "."));
 					return o.a.createElement(x, {
-						title: "Dsny.pl",
+						title: "dsnypluses.github.io",
 						content: n,
 						size: "sm",
 						open: a,
