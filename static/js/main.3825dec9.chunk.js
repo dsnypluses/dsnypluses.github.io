@@ -291,32 +291,10 @@
 												to: "/"
 											}, o.a.createElement("i", {
 													className: "fas fa-plus-square"
-												}), " Dsny.pl")), o.a.createElement("div", {
+												}), " DsnyPlusES")), o.a.createElement("div", {
 											className: a.icons
 										}, o.a.createElement("span", {
 												className: a.desktopIcons
-											}, o.a.createElement(Q.a, {
-													component: "a",
-													href: "https://www.facebook.com/CoNowegoDisneyPlus/",
-													target: "_blank"
-												}, o.a.createElement(J.a, null), "\xa0Co nowego na Disney+?"), o.a.createElement(Q.a, {
-													component: "a",
-													href: "https://www.facebook.com/groups/DisneyPlusPL/",
-													target: "_blank"
-												}, o.a.createElement(I.a, null), "\xa0Disney Plus Polska")), o.a.createElement("span", {
-												className: a.mobileIcons
-											}, o.a.createElement(w.a, {
-													component: "a",
-													href: "https://www.facebook.com/CoNowegoDisneyPlus/",
-													target: "_blank"
-												}, o.a.createElement(J.a, null)), o.a.createElement(w.a, {
-													component: "a",
-													href: "https://www.facebook.com/groups/DisneyPlusPL/",
-													target: "_blank"
-												}, o.a.createElement(I.a, null))), o.a.createElement(w.a, {
-												onClick: function () {
-													return c(!0)
-												}
 											}, o.a.createElement(D.a, null))))))), o.a.createElement(O, {
 							open: l,
 							onClose: function () {
